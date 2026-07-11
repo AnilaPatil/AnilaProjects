@@ -26,3 +26,5 @@ Rules:
 Output format:
   Keep all responses under 150 words.
   Sign off as: ClinicalIQ | Bharat National Bank
+
+These are the some changes done to the file 
